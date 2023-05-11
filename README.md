@@ -16,15 +16,26 @@
 ### 1.1 Ihr Projekt
 
 ✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Website mit verschiedenen Spielen. 
 
 ✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Wir möchten ein Website erstellen, die den User zugriffe hat, diese Spiele zuspielen. Dabei werden wir mehr über HTML und CSS kennenlernen. 
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1 | muss |   Funktional   | Als ein User möchte ich einen |
+|  |                 |      |                                    |
+|  |                 |      |                                    |
+|  |                 |      |                                    |
+|  |                 |      |                                    |
+|  |                 |      |                                    |
+|  |                 |      |                                    |
+|  |                 |      |                                    |
+|  |                 |      |                                    |
+|  |                 |      |                                    |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
