@@ -26,11 +26,11 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 |     |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-|1| kann|Qualität| Als Spieler möchte ich, dass sich auf der Website
+|1| kann|Qualität| Als Spieler möchte ich, dass sich auf der Website Animationen befinden, damit die website noch einen spielerischen Touch bekommt.|
 | 2 |muss |   Funktional   | Als ein Spieler möchte ich, dass es verschiedene Spiele gibt, damit es mehrere Wahlen habe zum Spielen.  |
-| 3 | muss  | Qualität |Als ein Spieler möchte ich, dass es schön gestaltet ist, damit es nicht langweilig aussieht. |
+| 3 | muss  | Qualität |Als ein Spieler möchte ich, dass es ein sinnvolles Layout hat, damit man sich gut auf der Seite zurecht findet |
 | 4 | muss   | Funktional  | Als ein Spieler möchte ich, dass es ein Button gibt, damit das automatisch den gewünschten Spiel führt.|
-| 5 | Qualität| muss  |Als ein Spieler möchte ich, dass es man auf Dark-Mode wechseln kann, damit ich mit meinen Systemhelligkeit anpassen kann. |
+| 5 | Qualität| muss  |Als ein Spieler möchte ich, dass es man auf Dark-Mode wechseln kann, damit ich meine Augen schonen kann |
                               |
 |  |                 |      |                                    |
 |  |                 |      |                                    |
