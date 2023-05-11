@@ -8,7 +8,8 @@
     <body>
         <p>Game weiss nicht</p>
         <p>Keine ahnung was das ist </p>
-        swfobject.embedSWF = function(url, cont, width, height){
+        
+    swfobject.embedSWF = function(url, cont, width, height){
     var ruffle = window.RufflePlayer.newest(),
         player = Object.assign(document.getElementById(cont).appendChild(ruffle.createPlayer()), {
             width: width,
