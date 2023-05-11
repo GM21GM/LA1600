@@ -59,8 +59,15 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.  |      25.05.2023           |   Alle   |    Animation erstellen   |  60 min |
+|2.  |  18.05.2023     |   Alle   |                 Games hinzufügen                   |   50 min |
+|3.  | 18.05.2023        |   Alle   |  grobe Layout                |  55 min  |
+| 3.A |    18.05.2023             |   Alle   |           Design Layout                       |  30 min  |
+| 3.B |   18.05.2023       | Alle | Game pop-out |      45 min |
+| 4  |     18.05.2023            |   Alle   |   Button Erstellen         | 30 min   |
+| 4.A |       25.05.2023          |   Alle   |     Code für automatische Führung     |  45 min  |
+| 5  |       25.05.2023          |  Alle    |              Dark Mode               |   50 min |
+
 
 Total: 
 
