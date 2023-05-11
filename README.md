@@ -49,6 +49,8 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 ### 1.4 Diagramme
 
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+![Skizze](https://github.com/GM21GM/LA1600/assets/111046257/dee8f6dc-a94c-4cca-8c8c-7acacf3f2b2c)
+
 
 ## 2 Planen
 
