@@ -19,16 +19,17 @@
 Website mit verschiedenen Spielen. 
 
 ✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
-Wir möchten ein Website erstellen, die den User zugriffe hat, diese Spiele zuspielen. Dabei werden wir mehr über HTML und CSS kennenlernen. 
+Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zuspielen. Dabei werden wir mehr über HTML und CSS kennenlernen. 
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| 1 | muss |   Funktional   | Als ein User möchte ich einen |
-|  |                 |      |                                    |
-|  |                 |      |                                    |
+|     |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 1 | muss |   Funktional   | Als ein Spieler möchte ich, dass die Website einwandfrei funktionieren, damit ich keine Probleme habe beim Spielen. |
+| 2 |muss |   Funktional   | Als ein Spieler möchte ich, dass es verschiedene Spiele gibt, damit es mehrere Wahlen habe zum Spielen.  |
+| 3 | muss  | Qualität |Als ein Spieler möchte ich, dass es schön gestaltet ist, damit es nicht langweilig aussieht. |
+| 4 | muss   | Funktional  | Als ein Spieler möchte ich, dass es ein Button gibt, damit das automatisch den gewünschten Spiel führt.|
 |  |                 |      |                                    |
 |  |                 |      |                                    |
 |  |                 |      |                                    |
