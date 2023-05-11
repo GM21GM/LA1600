@@ -31,7 +31,7 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 | 3 | muss  | Qualität |Als ein Spieler möchte ich, dass es schön gestaltet ist, damit es nicht langweilig aussieht. |
 | 4 | muss   | Funktional  | Als ein Spieler möchte ich, dass es ein Button gibt, damit das automatisch den gewünschten Spiel führt.|
 | 5 | Qualität| muss  |Als ein Spieler möchte ich, dass es man auf Dark-Mode wechseln kann, damit ich mit meinen Systemhelligkeit anpassen kann. |
-|  |                 |      |                                    |
+| 6 |     kann            |   Qualität   |  Als Spieler möchte ich, mich anmelden können, damit ich meine Lieblingspiele speichern kann                                  |
 |  |                 |      |                                    |
 |  |                 |      |                                    |
 
