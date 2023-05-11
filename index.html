@@ -3,6 +3,18 @@
 <head>
     <title>BerufsBildung Baden - Fakten zum Bau</title>
     <style>
+        .scroll-btn {
+  display: inline-block;
+  background-color: #3498db;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+        .scroll-btn:hover {
+  background-color: #2980b9;
+
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
@@ -16,16 +28,24 @@
             margin-bottom: 20px;
         }
     </style>
+    <script>
+function scrollToBottom() {
+  window.scrollTo({
+    top: document.documentElement.scrollHeight,
+    behavior: 'smooth'
+  });
+}
+</script>
 </head>
 <body>
     <h1>Spannende Fakten über den Bau der BerufsBildung Baden</h1>
-    <img src="https://project.cyber-geiger.eu/images/Consortium/bbb-logo.png">
-
+    <img src="https://project.cyber-geiger.eu/images/Consortium/bbb-logo.png" width="1000" height"400">
+    <button class="scroll-btn" onclick="scrollToBottom()">Scroll Down</button>
     <div class="fact">
         <h2>Gründung</h2>
         <p>Die BerufsBildung Baden wurde im Jahr 1999 gegründet und ist eine renommierte Bildungseinrichtung in der Region Baden.</p>
     </div>
-
+    
     <div class="fact">
         <h2>Architektur</h2>
         <p>Das Gebäude der BerufsBildung Baden zeichnet sich durch ein modernes und funktionales Design aus. Es wurde unter Berücksichtigung der neuesten pädagogischen Standards konzipiert.</p>
