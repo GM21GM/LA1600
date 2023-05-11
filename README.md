@@ -26,12 +26,12 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 |     |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| 1 | muss |   Funktional   | Als ein Spieler möchte ich, dass die Website einwandfrei funktionieren, damit ich keine Probleme habe beim Spielen. |
+|1| kann|Qualität| Als Spieler möchte ich, dass sich auf der Website
 | 2 |muss |   Funktional   | Als ein Spieler möchte ich, dass es verschiedene Spiele gibt, damit es mehrere Wahlen habe zum Spielen.  |
 | 3 | muss  | Qualität |Als ein Spieler möchte ich, dass es schön gestaltet ist, damit es nicht langweilig aussieht. |
 | 4 | muss   | Funktional  | Als ein Spieler möchte ich, dass es ein Button gibt, damit das automatisch den gewünschten Spiel führt.|
 | 5 | Qualität| muss  |Als ein Spieler möchte ich, dass es man auf Dark-Mode wechseln kann, damit ich mit meinen Systemhelligkeit anpassen kann. |
-| 6 |     kann            |   Qualität   |  Als Spieler möchte ich, mich anmelden können, damit ich meine Lieblingspiele speichern kann                                  |
+                              |
 |  |                 |      |                                    |
 |  |                 |      |                                    |
 
@@ -51,6 +51,7 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
 ![Skizze](https://github.com/GM21GM/LA1600/assets/111046257/dee8f6dc-a94c-4cca-8c8c-7acacf3f2b2c)
 
+![LA1600 Use-Case](https://github.com/GM21GM/LA1600/assets/111045891/9f09edb1-d623-471e-9af4-cbc3bc5d7e2e)
 
 ## 2 Planen
 
