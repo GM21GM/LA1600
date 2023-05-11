@@ -30,7 +30,8 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 | 2 |muss |   Funktional   | Als ein Spieler möchte ich, dass es verschiedene Spiele gibt, damit es mehrere Wahlen habe zum Spielen.  |
 | 3 | muss  | Qualität |Als ein Spieler möchte ich, dass es ein sinnvolles Layout hat, damit man sich gut auf der Seite zurecht findet |
 | 4 | muss   | Funktional  | Als ein Spieler möchte ich, dass es ein Button gibt, damit das automatisch den gewünschten Spiel führt.|
-| 5 | Qualität| muss  |Als ein Spieler möchte ich, dass es man auf Dark-Mode wechseln kann, damit ich meine Augen schonen kann |
+| 5 | muss| Qualität  |Als ein Spieler möchte ich, dass es man auf Dark-Mode wechseln kann, damit ich meine Augen schonen kann |
+|6| kann| Qualität|Als Spieler möchte ich, dass die Spiele in Kategorien unterteilt sind, damit ich mich besser zurecht finde|
                               |
 |  |                 |      |                                    |
 |  |                 |      |                                    |
