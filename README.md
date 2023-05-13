@@ -9,17 +9,17 @@
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
 |       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|11.05.2023| 1.0.0   | Wir haben Kapitel 1 bis 4 abgeschlossen. |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
 ✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
-Website mit verschiedenen Spielen. 
+Eine Website mit verschiedenen Spielen. 
 
 ✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
-Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zuspielen. Dabei werden wir mehr über HTML und CSS kennenlernen. 
+Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zuspielen. Dabei werden wir mehr mit HTML und CSS arbeiten und somit auch kennenlernen, wie Darkmode, Pop-out und animationen gehen. 
 
 ### 1.2 User Stories
 
@@ -33,7 +33,6 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 | 5 | muss| Qualität  |Als ein Spieler möchte ich, dass es man auf Dark-Mode wechseln kann, damit ich meine Augen schonen kann |
 |6| kann| Qualität|Als Spieler möchte ich, dass die Spiele in Kategorien unterteilt sind, damit ich mich besser zurecht finde|
 |7|kann|Qualität|Als Spieler möchte ich, dass ich mir Beschreibungen zum Spiel anschauen kann, damit ich Zeit bei der Auswahl sparen kann|
-                              |
 |  |                 |      |                                    |
 |  |                 |      |                                    |
 
@@ -59,14 +58,17 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.  |      25.05.2023           |   Alle   |    Animation erstellen   |  60 min |
-|2.  |  18.05.2023     |   Alle   |                 Games hinzufügen                   |   50 min |
-|3.  | 18.05.2023        |   Alle   |  grobe Layout                |  55 min  |
-| 3.A |    18.05.2023             |   Alle   |           Design Layout                       |  30 min  |
-| 3.B |   18.05.2023       | Alle | Game pop-out |      45 min |
-| 4  |     18.05.2023            |   Alle   |   Button Erstellen         | 30 min   |
-| 4.A |       25.05.2023          |   Alle   |     Code für automatische Führung     |  45 min  |
-| 5  |       25.05.2023          |  Alle    |              Dark Mode               |   50 min |
+| 1.  | 25.05.2023 | Sathana | Animation erstellen | 60 min |
+| 2.  | 11.05.2023 | Benas | Grobe Website oder Test Website erstellen | 30 min |
+| 2.A | 18.05.2023 | Benas | Games hinzufügen | 50 min |
+| 3.  | 18.05.2023 | Alle | grobe Layout | 55 min |
+| 3.A | 18.05.2023 | Sathana | Design Layout | 40 min  |
+| 4.  | 18.05.2023 | Giuliano | Button Erstellen | 30 min |
+| 4.A | 25.05.2023 | Alle | Code für automatische Führung |  45 min  |
+| 5.  | 25.05.2023 | Giuliano | Dark Mode | 50 min |
+| 6.  | 25.05.2023 | Benas | Unterteilung | 40 min |
+| 7.  | 25.05.2023 | Sathana | Game pop-out | 45 min |
+| 7.A | 25.05.2023 | Giuliano | Beschreibung für Games | 45 min |
 
 
 Total: 
@@ -78,13 +80,21 @@ Total:
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben entschieden, dass wir eine Game Website mit HTML5 games und mit der <embed> funktion erstellen.
+Wir haben auch entschieden, dass wir seperat einen Mobile und einen Desktop Layout erstellen, die beide sowohl light mode, als auch dark mode haben werden.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.  | 11.05.2023 | Sathana | 60 min| noch nicht fertig |
+| 2.  | 11.05.2023 | Benas | 30 min | 45 min |
+|  |       |           |               |                   |
+|  |       |           |               |                   |
+|  |       |           |               |                   |
+|  |       |           |               |                   |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
