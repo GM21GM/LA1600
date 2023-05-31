@@ -1,24 +1,19 @@
 # LA1600
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
-
+Feigen Martullo Sivickas Suganthasri
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
 |11.05.2023| 1.0.0   | Wir haben Kapitel 1 bis 4 abgeschlossen. |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
-Eine Website mit verschiedenen Spielen. 
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
+Eine Website zu erstellen welche einem eine Auswahl an Spielen gibt welche man spielen kann.
+
 Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zuspielen. Dabei werden wir mehr mit HTML und CSS arbeiten und somit auch kennenlernen, wie Darkmode, Pop-out und animationen gehen. 
 
 ### 1.2 User Stories
