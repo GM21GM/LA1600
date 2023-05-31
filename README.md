@@ -42,8 +42,13 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+|1.1	|Die Website wird geöffnet|	-	|Animationen sind auf der Website sichtbar|
+|2.1	|Die Website wird geöffnet|	-	|Es werden verschiedene Spiele auf der Website angezeigt|
+|3.1|	Die Website wird geöffnet|	-	|Das Layout der Website ist übersichtlich und benutzerfreundlich|
+|4.1	|Ein Spiel wird ausgewählt	Button| "Spiel starten" wird geklickt	|Das ausgewählte Spiel wird automatisch gestartet|
+|5.1	|Die Website wird geöffnet	|Button "Dark-Mode" wird aktiviert	|Das Design der Website wechselt in den Dark-Mode|
+|6.1|	Die Spiele sind auf der Website sichtbar|	-	|Die Spiele sind in verschiedene Kategorien unterteilt|
+|7.1	|Ein Spiel wird ausgewählt|	-	|Eine Beschreibung des Spiels wird angezeigt|
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
