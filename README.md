@@ -19,7 +19,7 @@ Eine Website zu erstellen welche einem eine Auswahl an Spielen gibt welche man s
 Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zuspielen. Dabei werden wir mehr mit HTML und CSS arbeiten und somit auch kennenlernen, wie Darkmode, Pop-out und animationen gehen. 
 
 ### 1.2 User Stories
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
+| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | ------------ | ------- | ----------------- |
 |1| kann|Qualität| Als Spieler möchte ich, dass sich auf der Website Animationen befinden, damit die website noch einen spielerischen Touch bekommt.|
 | 2 |muss |   Funktional   | Als ein Spieler möchte ich, dass es verschiedene Spiele gibt, damit es mehrere Wahlen habe zum Spielen.  |
