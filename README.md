@@ -5,7 +5,9 @@
 Feigen Martullo Sivickas Suganthasri
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|11.05.2023| 1.0.0   | Wir haben Kapitel 1 bis 4 abgeschlossen. |
+|11.05.2023| 0.0.0   | Wir haben Kapitel 1 bis 4 abgeschlossen. |
+|31.05.2023| 0.0.1   | Wir haben den ersten Prototyp der Website erstellt |
+|01.06.2023| 1.0.0   | Wir haben an der Website weitergearbeitet, neue Diagramme erstellt und die Projektdokumentation verbessert. |
 
 ## 1 Informieren
 
@@ -19,8 +21,6 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-|     |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
 |1| kann|Qualität| Als Spieler möchte ich, dass sich auf der Website Animationen befinden, damit die website noch einen spielerischen Touch bekommt.|
 | 2 |muss |   Funktional   | Als ein Spieler möchte ich, dass es verschiedene Spiele gibt, damit es mehrere Wahlen habe zum Spielen.  |
 | 3 | muss  | Qualität |Als ein Spieler möchte ich, dass es ein sinnvolles Layout hat, damit man sich gut auf der Seite zurecht findet |
@@ -28,8 +28,6 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 | 5 | muss| Qualität  |Als ein Spieler möchte ich, dass es man auf Dark-Mode wechseln kann, damit ich meine Augen schonen kann |
 |6| kann| Qualität|Als Spieler möchte ich, dass die Spiele in Kategorien unterteilt sind, damit ich mich besser zurecht finde|
 |7|kann|Qualität|Als Spieler möchte ich, dass ich mir Beschreibungen zum Spiel anschauen kann, damit ich Zeit bei der Auswahl sparen kann|
-|  |                 |      |                                    |
-|  |                 |      |                                    |
 
 ### 1.3 Testfälle
 
