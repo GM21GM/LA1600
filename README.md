@@ -90,7 +90,7 @@ Wir haben auch entschieden, dass wir seperat einen Mobile und einen Desktop Layo
 | 1.A  |       |           |               |                   |
 | 1.  | 11.05.2023 | Sathana | 60 min| noch nicht fertig |
 | 2.  | 11.05.2023 | Benas | 30 min | 45 min |
-|  |       |           |               |                   |
+| 7 | 25.05.2023   | Sathana | 45 min      |  50 min          |
 |  |       |           |               |                   |
 |  |       |           |               |                   |
 |  |       |           |               |                   |
