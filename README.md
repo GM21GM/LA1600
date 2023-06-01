@@ -89,7 +89,6 @@ Wir haben auch entschieden, dass wir seperat einen Mobile und einen Desktop Layo
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
 | 1.  | 11.05.2023 | Sathana | 60 min| noch nicht fertig |
 | 2.  | 11.05.2023 | Benas | 30 min | 45 min |
 | 3.  | 31.05.2023 | Alle | 55 min | 50 min |
