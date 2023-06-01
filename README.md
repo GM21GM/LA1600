@@ -31,8 +31,6 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 |  |                 |      |                                    |
 |  |                 |      |                                    |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
@@ -45,11 +43,8 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 |6.1|	Die Spiele sind auf der Website sichtbar|	-	|Die Spiele sind in verschiedene Kategorien unterteilt|
 |7.1	|Ein Spiel wird ausgewählt|	-	|Eine Beschreibung des Spiels wird angezeigt|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
 ![Skizze](https://github.com/GM21GM/LA1600/assets/111045604/5d351780-9ea6-4a55-9213-0c98249d6a39)
 
 ![Use-Case-Diagramm](https://github.com/GM21GM/LA1600/assets/111046257/9a45e2d4-5ce9-411b-ae76-97a195576928)
@@ -76,13 +71,8 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 Wir haben entschieden, dass wir eine Game Website mit HTML5 games und mit der <embed> funktion erstellen.
 Wir haben auch entschieden, dass wir seperat einen Mobile und einen Desktop Layout erstellen, die beide sowohl light mode, als auch dark mode haben werden.
 Neu 6.1 : Wir haben entschieden, unser Design zu verändern
@@ -96,8 +86,6 @@ Neu 6.1 : Wir haben entschieden, unser Design zu verändern
 | 3.  | 31.05.2023 | Alle | 55 min | 50 min |
 | 7 | 31.05.2023   | Sathana | 45 min      |  50 min          |
 
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
