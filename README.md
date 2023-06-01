@@ -50,7 +50,8 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 ### 1.4 Diagramme
 
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
-![Skizze](https://github.com/GM21GM/LA1600/assets/111046257/dee8f6dc-a94c-4cca-8c8c-7acacf3f2b2c)
+![Skizze](https://github.com/GM21GM/LA1600/assets/111045604/5d351780-9ea6-4a55-9213-0c98249d6a39)
+
 ![Use-Case-Diagramm](https://github.com/GM21GM/LA1600/assets/111046257/9a45e2d4-5ce9-411b-ae76-97a195576928)
 
 
@@ -84,6 +85,7 @@ Total:
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 Wir haben entschieden, dass wir eine Game Website mit HTML5 games und mit der <embed> funktion erstellen.
 Wir haben auch entschieden, dass wir seperat einen Mobile und einen Desktop Layout erstellen, die beide sowohl light mode, als auch dark mode haben werden.
+Neu 6.1 : Wir haben entschieden, unser Design zu verändern
 
 ## 4 Realisieren
 
