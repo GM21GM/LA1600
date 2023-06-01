@@ -44,9 +44,9 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 |7.1	|Ein Spiel wird ausgewählt|	-	|Eine Beschreibung des Spiels wird angezeigt|
 
 ### 1.4 Diagramme
-PC Version:
+
 ![Skizze](https://github.com/GM21GM/LA1600/assets/111045604/5d351780-9ea6-4a55-9213-0c98249d6a39)
-Mobile Version:
+
 ![Mobile Version](https://github.com/GM21GM/LA1600/assets/111045604/25b05724-5db3-4598-83c7-e1422a4c11db)
 
 
