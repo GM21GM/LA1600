@@ -90,10 +90,8 @@ Wir haben auch entschieden, dass wir seperat einen Mobile und einen Desktop Layo
 | 1.A  |       |           |               |                   |
 | 1.  | 11.05.2023 | Sathana | 60 min| noch nicht fertig |
 | 2.  | 11.05.2023 | Benas | 30 min | 45 min |
-| 7 | 25.05.2023   | Sathana | 45 min      |  50 min          |
-|  |       |           |               |                   |
-|  |       |           |               |                   |
-|  |       |           |               |                   |
+| 3.  | 31.05.2023 | Alle | 55 min | 50 min |
+| 7 | 31.05.2023   | Sathana | 45 min      |  50 min          |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
