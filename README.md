@@ -92,7 +92,9 @@ Neu 6.1 : Wir haben entschieden, unser Design zu verändern
 | 5.  | 31.05.2023 | Benas | 45 min | 20 min |
 | 6.  | 01.06.2023 | Benas | 45 min | 45 min |
 | 9.  | 01.06.2023 | Sathana | 45 min | 90min |
-| 7.A | 01.06.2023   | Giuliano | 45 min      |  45 min          |
+| 7.A | 01.06.2023 | Giuliano | 45 min      |  45 min          |
+| 7.  | 15.06.2023 | Sathana | 45 min | 60 min |
+| 9.  | 15.06.2023 | Sathana | Animation Interactive | 45 min | noch nicht fertig |
 
 
 
