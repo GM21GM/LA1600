@@ -1,34 +1,126 @@
 .gridcontainer{
   display : grid;
-  grid-template-columns: 15% 1108px auto;
+  gap:3px;
+  grid-template-columns: 10% 1118px auto;
   grid-template-rows: auto auto 100px;
 }
+.image-container {
 
+  position: relative;
+
+  display: inline-block;
+
+}
+
+
+
+
+
+.image-container {
+
+  position: relative;
+
+  overflow: hidden;
+
+}
+
+
+
+
+
+
+.animated-image:hover {
+
+  animation-name: slideRight;
+
+  animation-duration: 1s;
+
+  animation-timing-function: ease;
+
+}
+
+
+
+
+@keyframes slideRight {
+
+  from {
+
+      transform: translateX(0);
+
+  }
+
+
+
+
+  to {
+
+      transform: translateX(300px);
+
+  }
+
+}
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+.image-container .description {
+
+  position: absolute;
+
+  display: non;
+
+  bottom: 0;
+
+  left: 0;
+
+  right: 0;
+
+  background-color: rgba(0, 0, 0, 0.8);
+
+  color: #fff;
+
+  padding: 4px;
+
+  opacity: 0;
+
+  transition: opacity 0.3s ease;
+
+}
+
+
+
+
+.image-container:hover .description {
+
+  opacity: 1;
+
+}
 header {
-  background-color: hsl(29, 100%, 94%);
   grid-row:1 / span 1;
   grid-column:1 / span 3;
   font:"arial" size=72;
+  border : 4px solid red;
 }
 nav {
-  background-color: #ff00c8;
   grid-row:2 / span 1;
   grid-column:1 / span 1;
+  border : 4px solid red;
 }
 main {
-  background-color: #5dc8cd;
   grid-row:2 / span 1;
   grid-column:2 / span 1;
+  border : 4px solid red;
 }
 aside {
-  background-color: #afafe0;
   grid-row:2 / span 1;
   grid-column:3 / span 1;
+  border : 4px solid red;
 }
 footer {
-  background-color:#006064;
   grid-row:3 / span 1;
   grid-column:1 / span 3;
+  border : 4px solid red;
 }
 
 @media (max-width:1000px){
