@@ -111,9 +111,7 @@ Neu 6.1 : Wir haben entschieden, unser Design zu verändern
 | 6.1  | 21.06.2023 | Giuliano | OK |
 | 7.1  | 21.06.2023 | Giuliano | OK |
 
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
+Alle Testfälle funktionierten gut und wir haben keine Fehler gefunden.
 ## 6 Auswerten
 
 ✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
