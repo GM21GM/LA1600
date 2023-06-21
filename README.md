@@ -60,10 +60,10 @@ Wir möchten eine Website erstellen, die den User Zugriff hat, diese Spiele zusp
 | 1.  | 25.05.2023 | Sathana | Animation erstellen | 2x 45 min |
 | 2.  | 11.05.2023 | Benas | Grobe Website oder Test Website erstellen | 4x 45 min |
 | 2.A | 18.05.2023 | Benas | Games hinzufügen | 45 min |
-| 3.  | 18.05.2023 | Alle | grobe Layout | 5x 45 min |
+| 3.  | 18.05.2023 | Benas | grobe Layout | 5x 45 min |
 | 3.A | 18.05.2023 | Sathana | Design Layout | 40 min  |
 | 4.  | 18.05.2023 | Giuliano | Button Erstellen | 30 min |
-| 4.A | 31.05.2023 | Alle | Code für automatische Führung |  45 min  |
+| 4.A | 31.05.2023 | Benas | Code für automatische Führung |  45 min  |
 | 5.  | 31.05.2023 | Giuliano | Dark Mode | 3x 45 min |
 | 6.  | 01.06.2023 | Benas | Unterteilung | 45 min |
 | 7.  | 01.06.2023 | Sathana | Game pop-out | 45 min |
@@ -84,26 +84,33 @@ Neu 6.1 : Wir haben entschieden, unser Design zu verändern
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.  | 11.05.2023 | Sathana | 60 min| noch nicht fertig |
-| 2.  | 11.05.2023 | Benas | 30 min | 45 min |
-| 3.  | 31.05.2023 | Alle | 55 min | 50 min |
-| 4.  | 31.05.2023 | Giuliano | 45 min | 60 min |
-| 3.  | 31.05.2023 | Giuliano | 120min | noch nicht fertig |
-| 5.  | 31.05.2023 | Benas | 45 min | 20 min |
+| 1.  | 11.05.2023 | Sathana | 2x 45 min| 2x 45min  |
+| 2.  | 11.05.2023 | Benas | 4x 45 min | 4x 45 min |
+| 2.A | 31.05.2023 | Benas | 45 min   | 40 min|
+| 3.  | 31.05.2023 | Benas | 5x 45 min | 4x 45 min |
+| 3.A | 31.05.2023 | Sathana | 40 min  | 2x 45min |
+| 4.  | 31.05.2023 | Giuliano | 30 min | 60 min |
+| 4.A  | 31.05.2023 | Benas | 45 min | 45 min |
+| 5.  | 31.05.2023 | Giuliano | 3x 45 min | 3x 45 min |
 | 6.  | 01.06.2023 | Benas | 45 min | 45 min |
-| 9.  | 01.06.2023 | Sathana | 45 min | 90min |
-| 7.A | 01.06.2023 | Giuliano | 45 min      |  45 min          |
 | 7.  | 15.06.2023 | Sathana | 45 min | 60 min |
-| 9.  | 15.06.2023 | Sathana | 45 min | noch nicht fertig |
-
+| 7.A | 01.06.2023 | Giuliano | 45 min | 45 min |
+| 8.  | 07.06.2023 | Benas    | 2x 45min | 2x 45min|
+| 9.  | 01.06.2023 | Sathana | 45 min | 90min |
 
 
 ## 5 Kontrollieren
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 21.06.2023 | Giuliano | OK |
+| 2.1  | 21.06.2023 | Giuliano | OK |
+| 3.1  | 21.06.2023 | Giuliano | OK |
+| 4.1  | 21.06.2023 | Giuliano | OK |
+| 5.1  | 21.06.2023 | Giuliano | OK |
+| 6.1  | 21.06.2023 | Giuliano | OK |
+| 7.1  | 21.06.2023 | Giuliano | OK |
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
