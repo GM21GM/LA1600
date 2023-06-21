@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <header>
+        <h1>Popup</h1>
+    </header>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Popup</title>
+
+    <style>
+        .image-container {
+            position: relative;
+            display: inline-block;
+        }
+
+        .image-container img {
+            display: block;
+        }
+
+        .image-container .description {
+            position: absolute;
+            display: non;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: #fff;
+            padding: 10px;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .image-container:hover .description {
+            opacity: 1;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="image-container">
+        <img src="Car.gif" alt="Beschreibung des Bildes" width="400">
+        <div class="description">
+            Beschreibung des Bildes
+        </div>
+    </div>
+
+
+</body>
+
+</html>
