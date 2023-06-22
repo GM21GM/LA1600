@@ -8,6 +8,7 @@ Feigen Martullo Sivickas Suganthasri
 |11.05.2023| 0.0.0   | Wir haben Kapitel 1 bis 4 abgeschlossen. |
 |31.05.2023| 0.0.1   | Wir haben den ersten Prototyp der Website erstellt |
 |01.06.2023| 1.0.0   | Wir haben an der Website weitergearbeitet, neue Diagramme erstellt und die Projektdokumentation verbessert. |
+| 21.06.2023 | 1.0.1 | Wir haben unser Projekt fertig erstellt und Dokumentation bis Kapitel 5 abgeschlossen. |
 
 ## 1 Informieren
 
