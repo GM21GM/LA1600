@@ -1,0 +1,51 @@
+Lern-Bericht
+Einleitung
+Unser Projekt beschäftigte sich mit der Verwendung von @media-Regeln in CSS, um responsive Webseiten zu erstellen.
+
+Was habe ich gelernt?
+Ich habe gelernt, wie man @media-Regeln verwendet, um das Layout einer Webseite an verschiedene Bildschirmgrößen anzupassen.
+
+Beschreibung
+Textliche Beschreibung
+Bei der Erstellung einer Webseite ist es wichtig, dass sie auf verschiedenen Geräten gut aussieht und benutzerfreundlich ist. Mit Hilfe von @media-Regeln in CSS kann das Layout einer Webseite basierend auf der Bildschirmgröße des Geräts angepasst werden.
+
+Ein Beispiel für die Verwendung von @media-Regeln ist die Erstellung einer responsiven Navigation. Bei größeren Bildschirmen kann die Navigation horizontal angezeigt werden, während sie bei kleineren Bildschirmen vertikal angezeigt wird. Durch die Verwendung von @media-Regeln können spezifische CSS-Stile für verschiedene Bildschirmgrößen definiert werden.
+
+Deutliches Bild
+Responsive Web Design
+
+Das Bild zeigt eine Webseite, die mit Hilfe von @media-Regeln responsiv gestaltet wurde. Die Navigation wird bei größeren Bildschirmen horizontal angezeigt, während sie bei kleineren Bildschirmen vertikal angeordnet wird. Dadurch wird sichergestellt, dass die Webseite auf verschiedenen Geräten gut aussieht und benutzerfreundlich ist.
+
+Code-Fetzen
+```
+@media (max-width: 768px) {
+  /* CSS-Stile für Bildschirmgrößen bis zu 768px Breite */
+  .navigation {
+    flex-direction: column;
+  }
+}
+
+@media (min-width: 769px) {
+  /* CSS-Stile für Bildschirmgrößen ab 769px Breite */
+  .navigation {
+    flex-direction: row;
+  }
+}
+```
+Der obige Code zeigt die Verwendung von @media-Regeln in CSS. Es werden zwei @media-Blöcke definiert: einer für Bildschirmgrößen bis zu 768px Breite und einer für Bildschirmgrößen ab 769px Breite. In beiden Blöcken werden unterschiedliche CSS-Stile für das Element mit der Klasse "navigation" definiert. Bei Bildschirmgrößen bis zu 768px wird die Navigation vertikal angeordnet, während sie bei größeren Bildschirmgrößen horizontal angeordnet wird.
+
+Verifikation
+Die textliche Beschreibung erklärt den Zweck und die Verwendung von @media-Regeln in CSS, um das Layout einer Webseite responsiv zu gestalten.
+
+Das Bild veranschaulicht die Auswirkungen der Verwendung von @media-Regeln auf das Layout einer Webseite und zeigt die Anpassung der Navigation basierend auf der Bildschirmgröße.
+
+Der Code-Fetzen veranschaulicht die Syntax und den Aufbau von @media-Regeln in CSS und zeigt die Anwendung auf die Navigation einer Webseite.
+
+Zusammen liefern diese Medien einen umfassenden Überblick über das gelernte Konzept der Verwendung von @media-Regeln für responsives Webdesign.
+
+Reflexion zum Arbeitsprozess
+👍 Etwas, was gut lief: Die Teamarbeit und Kommunikation innerhalb der Gruppe waren sehr effektiv. Wir konnten uns gut abstimmen und Aufgaben effizient verteilen.
+
+👎 Etwas, was nicht gut lief: Bei der Implementierung der @media-Regeln gab es anfangs einige Schwierigkeiten mit der korrekten Anwendung und Syntax. Es war eine steile Lernkurve, um die Konzepte zu verstehen und sie erfolgreich umzusetzen.
+
+Verbesserungsvorschlag: Um solche Herausforderungen in Zukunft zu bewältigen, könnte es hilfreich sein, im Vorfeld mehr Zeit für die Recherche und das gemeinsame Lernen zu investieren. Durch eine gründlichere Auseinandersetzung mit den Konzepten und Beispielen könnten potenzielle Schwierigkeiten bereits im Voraus erkannt und besser bewältigt werden.
