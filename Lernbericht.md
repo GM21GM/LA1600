@@ -1,10 +1,10 @@
-#Lern-Bericht
-##Einleitung
+# Lern-Bericht
+## Einleitung
 Unser Projekt war es eine Website zu erstellen auf der man eine Auswahl an Spielen vorfindet.
 Was haben wir gelernt?
 Wir haben gelernt, wie man @media-Regeln verwendet, um das Layout einer Webseite an verschiedene Bildschirmgrößen anzupassen.
 
-##Beschreibung
+## Beschreibung
 Textliche Beschreibung
 Bei der Erstellung einer Webseite ist es wichtig, dass sie auf verschiedenen Geräten gut aussieht und benutzerfreundlich ist. Mit Hilfe von @media-Regeln in CSS kann das Layout einer Webseite basierend auf der Bildschirmgröße des Geräts angepasst werden.
 
@@ -52,7 +52,7 @@ Code-Fetzen
 
 ```
 
-Verifikation
+## Verifikation
 Die textliche Beschreibung erklärt den Zweck und die Verwendung von @media-Regeln in CSS, um das Layout einer Webseite responsiv zu gestalten.
 
 Das Bild veranschaulicht die Auswirkungen der Verwendung von @media-Regeln auf das Layout einer Webseite und zeigt die Anpassung basierend auf der Bildschirmgröße.
@@ -60,7 +60,7 @@ Das Bild veranschaulicht die Auswirkungen der Verwendung von @media-Regeln auf d
 Die obige @media-Query wird angewendet, wenn die maximale Bildschirmbreite 1000px beträgt. Innerhalb dieser @media-Query werden bestimmte Anpassungen am Grid-Layout vorgenommen, um es besser für kleinere Bildschirme geeignet zu machen. Die Elemente Header, Navigation, Hauptinhalt, Seitenleiste und Footer werden neu positioniert, um eine optimale Darstellung auf mobilen Geräten zu ermöglichen.
 Zusammen liefern diese Medien einen umfassenden Überblick über das gelernte Konzept der Verwendung von @media-Regeln für responsives Webdesign.
 
-Reflexion zum Arbeitsprozess
+## Reflexion zum Arbeitsprozess
 👍 Etwas, was gut lief: Die Teammoral blieb stetig hoch, da man trotz Problemen sich versucht hat zu unterstützen und zu motivieren.
 
 👎 Etwas, was nicht gut lief: Der Gruppenleiter konnte seine Rolle nicht gut bewältigen, was zu einem teilweise chaotischem Projekt führte.
