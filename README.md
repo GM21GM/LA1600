@@ -115,4 +115,4 @@ Neu 6.1 : Wir haben entschieden, unser Design zu verändern
 Alle Testfälle funktionierten gut und wir haben keine Fehler gefunden.
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+](https://github.com/GM21GM/LA1600/edit/main/Lernbericht.md)https://github.com/GM21GM/LA1600/edit/main/Lernbericht.md
